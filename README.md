@@ -9,6 +9,14 @@ https://nemutas.github.io/r3f-water-drops/
 
 ![output(video-cutter-js com) (9)](https://user-images.githubusercontent.com/46724121/168792899-e4d4a84c-a906-4667-874b-597c0e096966.gif)
 
+# Technology
+
+- TypeScript
+- React（Create React App）
+- React Three Fiber（Three.js）
+- Raymarching
+- [use-cannon](https://github.com/pmndrs/use-cannon)
+
 # Reference
 This is a technical document on Raymarching. They are all very easy to understand and are excellent documents.
 
