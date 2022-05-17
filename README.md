@@ -12,7 +12,7 @@ https://nemutas.github.io/r3f-water-drops/
 # Technology
 
 - TypeScript
-- React（Create React App）
+- React（with Vite）
 - React Three Fiber（Three.js）
 - Raymarching
 - [use-cannon](https://github.com/pmndrs/use-cannon)
