@@ -1,4 +1,4 @@
-# ABOUT
+# About
 In this application, the Raymarching spheres have collision detection.<br>
 This allows the spheres to be dispersed using the mouse.
 
